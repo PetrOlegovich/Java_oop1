@@ -36,15 +36,6 @@ public class Program {
         GreatGrand greatGrand7 = new GreatGrand(person14,Status.greatGrand);
 
 
-
-//        if (parents.getStatus() == Status.parents){
-//            System.out.printf("%s и %s являются  родителями %s", parents, parents1 , kid);
-//            System.out.printf("%s и %s родители : %s\n" +
-//                            "%s и  %s родители : %s\n" +
-//                            "И всем Квартетом являются Бабушками и Дедушками : %s",grand,
-//                    grand1, parents1, grand2, grand3, parents, kid);
-//        }
-
         Scanner scan = new Scanner(System.in);
         while(true) {
             String ggg = "Нет информации";
